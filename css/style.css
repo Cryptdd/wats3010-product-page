@@ -1396,6 +1396,8 @@ h3 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  background-image: url("/Users/sophialebel/Desktop/Foofins-Images/rabbit.jpg");
+  
 }
 
 @media (max-width: 767px) {
@@ -3747,7 +3749,7 @@ h3 {
 /* line 5, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
 .case_study_area {
   position: relative;
-  padding: 190px 0 216px 0;
+  padding: 50px;
   position: relative;
   position: relative;
 }
@@ -7112,3 +7114,33 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.video{
+  border: none;
+}
+
+.bigpic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+.features_area_2{
+  padding-top: 100px;
+  padding-bottom: 70px;
+  background-image: url("/Users/sophialebel/Desktop/Foofins-Images/grass.jpg");
+  filter: opacity(75%)
+}
+
+.features_area_2 .container .row p{
+  color: white;
+}
+
+.features_area_2 .container .row h3{
+  color: white;
+}
+
+.features_area_2 .container .row h4{
+  color: white;
+}
